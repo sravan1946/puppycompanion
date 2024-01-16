@@ -5,6 +5,7 @@
 body.dark-mode {
     background-color: #1a1a1a;
     color: #ffffff;
+  overflow: hidden;
 }
 
 
@@ -16,6 +17,7 @@ body.dark-mode {
 body.light-mode {
     background-color: #ffffff;
     color: #000000;
+  overflow: hidden;
 }
 
 body {
